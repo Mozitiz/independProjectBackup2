@@ -1,0 +1,9 @@
+com/example/model/Customer.class
+com/example/TPCHQuery3.class
+com/example/model/Order.class
+com/example/process/LineItemProcessFunction.class
+com/example/process/RevenueAggregationFunction.class
+com/example/model/LineItem.class
+com/example/process/ResultRevenueSink.class
+com/example/process/OrderProcessFunction.class
+com/example/process/CustomerProcessFunction.class
